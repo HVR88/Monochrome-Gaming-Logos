@@ -5,6 +5,8 @@
 
 Retro arcade, computer, console and publisher logos for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS)
 
+PNG files are each 600 pixels wide.  SVG files sized 2 inches @ 300dpi. If you need a PNG wider than 600 pixels, just download the SVG and rasterize to the specific pixel width you need.
+
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample.png)
 
 
