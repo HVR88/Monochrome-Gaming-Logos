@@ -13,3 +13,5 @@ This work is licensed under a
 
 
 Retro arcade, computer, console and publisher logos.
+
+![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample.png)
