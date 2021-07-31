@@ -7,6 +7,8 @@ Logos for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [G
 
 Includes arcade, console, computer, publisher and category/playlist logos.
 
+Do you feel a logo is missing, have an idea for an alternate or have another special request? Create an issue and let me know.
+
 PNG files are all 600 pixels wide.  SVG files 2 inches @ 300dpi. If you need wider PNG files, download the SVG and rasterize to a specific size.
 
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample.png)
