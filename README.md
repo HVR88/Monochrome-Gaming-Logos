@@ -5,9 +5,9 @@
 
 Logos for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS)
 
-Includes arcade, console, computer and publisher plus category/playlist logos.
+Includes arcade, console, computer, publisher and category/playlist logos.
 
-PNG files are all 600 pixels wide.  SVG files 2 inches @ 300dpi. If you need wider PNG files, download the SVG and rasterize to the specific size you need.
+PNG files are all 600 pixels wide.  SVG files 2 inches @ 300dpi. If you need wider PNG files, download the SVG and rasterize to a specific size.
 
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample.png)
 
