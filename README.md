@@ -15,6 +15,8 @@ Do you feel a logo is missing, have an idea for an alternate or have another spe
 
 PNG files are all 600 pixels wide.  SVG files 2 inches @ 300dpi. If you need larger PNG files, download the SVG and resize, or simply increase the DPI, then export a new PNG.
 
+* all PNG and SVG files have been passed through an optimizer to reduce their filesize and maintain 100% compatibility.
+
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample.png)
 
 
