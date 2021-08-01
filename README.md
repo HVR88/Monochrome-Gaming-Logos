@@ -7,7 +7,7 @@ Logos for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [G
 
 Includes arcade, console, computer, publisher and category/playlist logos.
 
-What makes these logos different than others out there? This collection is more complete than any other I know of, but more importantly, all the corporate logos here are accurate. Many have been created from scratch, either using the correct base font or hand-drawn to match the original. 
+What makes this collection different than others out there? In addition to all the original custom artwork not seen anywhere else, this collection strives to be more complete than any other. All the corporate logos here are accurate and many have been created from scratch, either using the correct base font or hand-drawn to match the original. Simply put, you won't be able to source these logos anywhere else.
 
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample.png)
 
