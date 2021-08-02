@@ -11,7 +11,7 @@ What makes this collection different than others out there? In addition to all t
 
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample.png)
 
-You can do pretty much whataver you want with the logos here, but I ask that you include a link back to this repository if distributing any of them with your work. These logos are a work of artistic expression on my part and provided as-is. If you plan to include any in a commercial project, be aware that while my recreations' copyright allow free use (aka copy-left), many of the designs are trademarked by their brand owners - so you've been informed, and I'm not taking responsibility for any issues that may arise from your use of the marks. 
+You can do pretty much whataver you want with the logos here, but I ask that you include a link back to this repository if distributing any of them with your work. These logos are a work of artistic expression on my part and provided as-is. If you plan to include any in a commercial project, be aware that while my recreations' copyright allows free use (aka copy-left), many of the designs are trademarked by their brand owners - so you've been informed, and I'm not taking responsibility for any issues that may arise from your use of the marks. 
 
 Do you feel a logo is missing, have an idea for an alternate or have another special request? Create an issue and let me know.
 
