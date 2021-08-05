@@ -3,9 +3,9 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 
-Logos for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS)
+Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS) - you can of course use them for any project or front-end where you want monochrome logos.
 
-Includes arcade, console, computer, publisher and category/playlist logos.
+The collection includes arcade, console, computer, publisher and category/playlist logos.
 
 What makes this collection different than others out there? In addition to all the original custom artwork not seen anywhere else, this collection strives to be more complete than any other. All the corporate logos here are accurate and many have been created from scratch, either using the correct base font or hand-drawn to match the original. Simply put, you won't be able to source this collection anywhere else.
 
@@ -22,7 +22,9 @@ You can do pretty much whataver you want with the logos here, but I ask that you
 
 Do you feel a logo is missing, have an idea for an alternate or have another special request? Create an issue and let me know.
 
-PNG files are all 600 pixels wide.  SVG files 2 inches @ 300dpi. If you need larger PNG files, download the SVG and resize, or simply increase the DPI, then export a new PNG.
+If you'd like to submit a logo, please make sure it's a vector-based design - it can be in any format (SVG, EPS or AI for example). You can submit in a couple of ways - create an issue and post a link to the file(s) or fork this repo and add your design(s) to the submissions folder and issue a pull request. Please don't submit PNG or other bitmap files - I generate PNGs automatically from the vector paths.
+
+Collection PNG files are all 600 pixels wide.  SVG files 2 inches @ 300dpi. If you need larger PNG files, download the SVG and resize, or simply increase the DPI, then export a new PNG.
 
 * all PNG and SVG files have been passed through an optimizer to reduce their filesize and maintain 100% compatibility.
 
