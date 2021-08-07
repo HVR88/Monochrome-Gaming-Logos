@@ -20,15 +20,15 @@ What makes this collection different than others out there? In addition to all t
 
 You can do pretty much whataver you want with the logos here, but I ask that you include a link back to this repository if distributing any of them with your work. These logos are a work of artistic expression on my part and provided as-is. If you plan to include any in a commercial project, be aware that while my recreations' copyright allows free use (aka copy-left), many of the designs are trademarked by their brand owners - so you've been informed, and I'm not taking responsibility for any issues that may arise from your use of the marks. 
 
-###Requests
+### Requests
 
 Do you feel a logo is missing, have an idea for an alternate or have another special request? Create an issue and let me know.
 
-###Submissions
+### Submissions
 
 If you'd like to submit a logo, please make sure it's a vector-based design - it can be in any format (SVG, EPS or AI for example). You can submit in a couple of ways - create an issue and post a link to the file(s) or fork this repo and add your design(s) to the submissions folder and issue a pull request. Please don't submit PNG or other bitmap files - I generate PNGs automatically from the vector paths.
 
-###Specifications
+### Specifications
 
 Collection PNG files are all 600 pixels wide.  SVG files 2 inches @ 300dpi. If you need larger PNG files, download the SVG and resize, or simply increase the DPI, then export a new PNG.
 
