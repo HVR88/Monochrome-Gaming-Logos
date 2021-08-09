@@ -3,11 +3,9 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 
-Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS) - you can of course use them for any project or front-end where you want monochrome logos.
+Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS) - you can also use them for any project or front-end where you want monochrome logos.
 
-The collection includes arcade, console, computer, publisher and category/playlist logos.
-
-What makes this collection different than others out there? In addition to all the original custom artwork not seen anywhere else, this collection strives to be more complete than any other. All the corporate logos here are accurate and many have been created from scratch, either using the correct base font or hand-drawn to match the original. Simply put, you won't be able to source this collection anywhere else.
+The collection includes arcade, console, computer, publisher, category and custom playlist logos - its goal is comprehensive coverage of all the usual (and some unusual) emulated systems/platforms. 
 
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample.jpg)
 
