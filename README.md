@@ -16,7 +16,7 @@ The collection includes arcade, console, computer, publisher, category and custo
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample4.jpg)
 
 
-These logos are a work of artistic expression on my part and recreations fair-use, they're all provided as-is. You can do pretty much whataver you want with the logos here, but I ask that you include a link back to this repository if distributing any of them with your work. If you plan to include any in a commercial project, be aware that while the license for this repository allows free use (aka copy-left), some of the designs (non-simple letters) may be covered by an original copyright and many of the designs are trademarked by their brand owners. You've been informed, and I'm not taking responsibility for any issues that may arise from your use of the marks. 
+These logos are a work of artistic expression on my part and recreations made under a fair-use principle, they're all provided as-is. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing any of them with your work. If you plan to include any in a commercial project, be aware that while the license for this repository allows free use (aka copy-left), some of the designs (non-simple letters) may be covered by an original copyright and many of the designs are trademarked by their brand owners. You've been informed, and I'm not taking responsibility for any issues that may arise from your use of the marks. 
 
 ### Requests
 
