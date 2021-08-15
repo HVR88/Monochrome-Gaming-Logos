@@ -16,7 +16,7 @@ The collection includes arcade, console, computer, publisher, category and custo
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample4.jpg)
 
 
-You can do pretty much whataver you want with the logos here, but I ask that you include a link back to this repository if distributing any of them with your work. These logos are a work of artistic expression on my part and provided as-is. If you plan to include any in a commercial project, be aware that while my recreations' copyright allows free use (aka copy-left), many of the designs are trademarked by their brand owners - so you've been informed, and I'm not taking responsibility for any issues that may arise from your use of the marks. 
+These logos are a work of artistic expression on my part and recreations fair-use, they're all provided as-is. You can do pretty much whataver you want with the logos here, but I ask that you include a link back to this repository if distributing any of them with your work. If you plan to include any in a commercial project, be aware that while the license for this repository allows free use (aka copy-left), some of the designs (non-simple letters) may be covered by an original copyright and many of the designs are trademarked by their brand owners. You've been informed, and I'm not taking responsibility for any issues that may arise from your use of the marks. 
 
 ### Requests
 
@@ -28,7 +28,7 @@ If you'd like to submit a logo, please make sure it's a vector-based design - it
 
 ### Specifications
 
-Collection PNG files are all 600 pixels wide.  SVG files 2 inches @ 300dpi. If you need larger PNG files, download the SVG and resize, or simply increase the DPI, then export a new PNG.
+PNG files are 600 pixels wide.  SVG files 2 inches @ 300dpi. If you need larger PNG files, download the SVG and resize, or simply increase the DPI, then export a new PNG.
 
 All PNG and SVG files have been passed through an optimizer to reduce their filesize and maintain 100% compatibility.
 
