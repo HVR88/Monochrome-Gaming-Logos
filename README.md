@@ -5,18 +5,22 @@
 
 Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS) - you can also use them for any project or front-end where you want monochrome logos.
 
-The collection includes arcade, console, computer, publisher, category and custom playlist logos - its goal is comprehensive coverage of all the usual (and some unusual) emulated systems/platforms. 
+The collection includes arcade, console, computer, publisher, category and playlist logos - its goal is comprehensive coverage of all the usual (and some unusual) emulated systems/platforms. 
 
-![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample.jpg)
+![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_playlists.jpg)
 
-![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample2.jpg)
+![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_consoles.jpg)
 
-![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample3.jpg)
+![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_arcadeboards.jpg)
 
-![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/monochrome-sample4.jpg)
+![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_computers.jpg)
+
+![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_publishers.jpg)
 
 
-These logos are a work of artistic expression on my part and recreations made under a fair-use principle, they're all provided as-is. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing any of them with your work. If you plan to include any in a commercial project, be aware that while the license for this repository allows free use (aka copy-left), some of the designs (non-simple letters) may be covered by an original copyright and many of the designs are trademarked by their brand owners. You've been informed, and I'm not taking responsibility for any issues that may arise from your use of the marks. 
+These logos are a work of artistic expression on my part and recreations made under a fair-use principle, they're all provided as-is. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. 
+
+Be aware that some of the designs may be covered by an original copyright and many of the designs are trademarked by their brand owners. You've been informed, and I take no responsibility for any issues that may arise from your use of the files/works. 
 
 ### Requests
 
