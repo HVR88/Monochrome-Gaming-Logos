@@ -31,6 +31,7 @@ Do you feel a logo is missing, have an idea for an alternate or have another spe
 If you'd like to submit a logo, please make sure it's a vector-based design (SVG, EPS or AI). Submit in one of two ways:
 1. Create an issue and post a link to the file(s)
 2. Fork this repo and add your design(s) to the submissions folder, then issue a pull request.
+
 Please don't submit PNG or other bitmap files - PNGs will be generated from the vector files.
 
 ### Specifications
