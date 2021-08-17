@@ -1,7 +1,8 @@
-# Monochrome (Retro) Gaming Logos (over 550)
+# Monochrome (Retro) Gaming Logos
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
+Asset Count: 555
 
 Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS) - you can also use them for any project or front-end where you want monochrome logos.
 
