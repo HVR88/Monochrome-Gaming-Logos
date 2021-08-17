@@ -1,4 +1,4 @@
-# Monochrome (Retro) Gaming Logos
+# Monochrome (Retro) Gaming Logos (over 550)
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
