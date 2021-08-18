@@ -2,9 +2,9 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Asset Count: 562
+Asset Count: 570 svg + 570 png
 
-Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS) - you can also use them for other themes and front-ends such as Emulation Station, LaunchBox/BigBox, Attract Mode, or any other project where you might need monochrome logos.
+Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS) - you can also use them for other themes and front-ends such as Emulation Station, LaunchBox/BigBox, Attract Mode, or any other project where you want monochrome logos.
 
 The collection includes arcade, console, computer, publisher, category and playlist logos - its goal is comprehensive coverage of all the usual (and some unusual) emulated systems/platforms. 
 
