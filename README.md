@@ -4,7 +4,7 @@
 
 Asset Count: 562
 
-Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS) - you can also use them for any project or front-end where you want monochrome logos.
+Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS) - you can also use them for other themes and front-ends such as Emulation Station, LaunchBox/BigBox, Attract Mode, or any other project where you might need monochrome logos.
 
 The collection includes arcade, console, computer, publisher, category and playlist logos - its goal is comprehensive coverage of all the usual (and some unusual) emulated systems/platforms. 
 
@@ -19,21 +19,21 @@ The collection includes arcade, console, computer, publisher, category and playl
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_publishers.jpg)
 
 
-These logos are a work of artistic expression on my part and recreations made under a fair-use principle, they're all provided as-is. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. 
+These logos are provided as-is, are works of artistic expression on my part and recreations are made under a fair-use principle. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. 
 
-Be aware some of the designs may be covered by original copyright and many of the designs are trademarked by their brand owners. You've been informed, and I take no responsibility for any issues that may arise from your use of the files/works. 
+Some of the designs are covered by original copyright and many of the designs are trademarked by their brand owners. I take no responsibility for any issues that may arise from anyone else's use of these files/works. 
 
 ### Requests
 
-Do you feel a logo is missing, have an idea for an alternate or have a special request? Create an issue and let me know.
+Do you think a logo is missing, have an idea for an alternate or have a special request? Let me know by opening a new issue.
 
 ### Submissions
 
-If you'd like to submit a logo, please make sure it's a vector-based design (SVG, EPS or AI). Submit in one of two ways:
-- Create an issue and post a link to the file(s)
-- Fork this repo and add your design(s) to the submissions folder, then issue a pull request.
+Make sure the design is vector-based (SVG, EPS or AI), not a poor automated trace, and submit in one of two ways:
+- Open a new issue and post a link to the file(s)
+- Fork the repo and add your design(s) to the submissions folder, then issue a pull request.
 
-Please don't submit PNG or other bitmap files - PNGs will be generated from the vector files.
+Please don't submit PNG or other bitmap files - PNGs will be generated from the vector files. If you need to submit multi-color vectors, I can take care of the monochrome interpretation when I have time.
 
 ### Specifications
 
