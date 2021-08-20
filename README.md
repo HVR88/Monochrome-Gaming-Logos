@@ -6,9 +6,9 @@ Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, 
 
 The collection includes arcade, console, computer, publisher, category and playlist logos - its goal is comprehensive coverage of all the usual (and some unusual) emulated systems/platforms. 
 
-Logos/Variations Count: 570 svg + 570 png
+Artwork files: 570 svg + 570 png
 
-Samples (logos are one per file in the collection):
+Samples collage:
 
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_consoles.jpg)
 
