@@ -45,7 +45,7 @@ The files have all been passed through an optimizer to reduce their size and mai
 
 ### Background and a Special Request
 
-I originally started working on these logos to shore up missing artwork from Pegasus Frontend as I'm a big fan and would very much like to see it succeed. While I'm a regular donnor on Patreon, I'm not able to offer very much financially, so it's my hope that I can additionally contribute in other ways, through testing and now by providing more artwork, giving users more options for their collections.
+I originally started working on these logos to shore up missing artwork from [Pegasus Frontend](https://pegasus-frontend.org/), as I'm a big fan and would very much like to see it succeed. While I'm a regular donnor on Patreon, I'm not able to offer very much financially, so it's my hope that I can additionally contribute in other ways, through testing and now by providing more artwork, giving users more options for their collections.
 
 If you value this work, I'd like to make the smallest request. Please visit the [Pegasus Frontend](https://pegasus-frontend.org/) project, try it out on your platform of choice and if you're able, make a small contribution in some way. Consider financial assistance to its author, contributing code to the project or spreading the word and letting your friends or subscribers know about it. 
 
