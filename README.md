@@ -49,7 +49,7 @@ I originally started working on these logos to shore up missing artwork from Peg
 
 If you value this work, I'd like to make the smallest request. Please visit the [Pegasus Frontend](https://pegasus-frontend.org/) project, try it out on your platform of choice and if you're able, make a small contribution in some way, whether it be financial assistance to its author, through code to the project's repository or by spreading the word and letting your friends or subscribers know about it. 
 
-Don't forget to also check out the [GameOS](https://github.com/PlayingKarrde/gameOS) theme, together with Pegasus, it provides the best and most polished front-end experience available.
+Don't forget to also check out the [GameOS](https://github.com/PlayingKarrde/gameOS) theme, together with Pegasus, it provides the best and most polished front-end experience available for large game collections.
 
 This work is licensed under a
 [Creative Commons Attribution ShareAlike 4.0 International License][cc-by-sa].
