@@ -2,9 +2,9 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Logos (primarily) for [Pegasus Frontend](https://pegasus-frontend.org/) themes, including [GameOS](https://github.com/PlayingKarrde/gameOS) - you can also use them for other themes and front-ends such as Emulation Station, LaunchBox/BigBox, Attract Mode, or any other project where you want monochrome logos.
+Logos for [Pegasus Frontend](https://pegasus-frontend.org/), including [GameOS](https://github.com/PlayingKarrde/gameOS) theme - you can also use them for other  front-ends such as Emulation Station, LaunchBox/BigBox, Attract Mode, or any other project where you want monochrome logos.
 
-The collection includes arcade, console, computer, publisher, category and playlist logos - its goal is comprehensive coverage of all the usual (and some unusual) emulated systems/platforms. 
+The collection includes arcade, console, computer, publisher, category and playlist logos - comprehensive coverage of the usual (and some unusual) emulated systems/platforms. 
 
 Artwork files: 578
 
@@ -21,9 +21,9 @@ Sample collages:
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_publishers.jpg)
 
 
-These logos are provided as-is, are works of artistic expression on my part and recreations are made under a fair-use principle. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. 
+These logos are provided as-is, are works of artistic expression and recreations are made under a fair-use principle. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. 
 
-Some of the designs are covered by original copyright and many of the designs are trademarked by their brand owners. I take no responsibility for any issues that may arise from anyone else's use of these files/works. 
+Some of the designs are covered by original copyright and many of the designs are trademarked by their brand owners. I take no responsibility for any issues that may arise from anyone else's use of these works. 
 
 ### Requests
 
@@ -35,7 +35,7 @@ Make sure the design is 100% vector-based (SVG, EPS or AI) and not a poor automa
 - Open a new issue and post a link to the file(s)
 - Fork the repo and add your design(s) to the submissions folder, then issue a pull request.
 
-Please don't submit any bitmap files - PNGs will be generated from the vector files. If you need to submit multi-color vectors, I can take care of the monochrome interpretation when I have time.
+Please don't submit any bitmap files - PNGs will be generated from the vector files. If you need to submit multi-color vectors, I can create a monochrome version.
 
 ### Specifications
 
@@ -45,7 +45,7 @@ The files have all been passed through an optimizer to reduce their size and mai
 
 ### Background and a Special Request
 
-I originally started working on these logos to shore up missing artwork from Pegasus Frontend. While I'm not attached to that project, I'm a big fan and would very much like to see it succeed. As a regular donator on Patreon I'm not able to offer very much financially, so it's my hope that I can additionally contribute in other ways, through testing and now by providing more artwork to at the very least, give users greater options for their collections.
+I originally started working on these logos to shore up missing artwork from Pegasus Frontend as I'm a big fan and would very much like to see it succeed. While I'm a regular donnor on Patreon, I'm not able to offer very much financially, so it's my hope that I can additionally contribute in other ways, through testing and now by providing more artwork, giving users more options for their collections.
 
 If you value this work, I'd like to make the smallest request. Please visit the [Pegasus Frontend](https://pegasus-frontend.org/) project, try it out on your platform of choice and if you're able, make a small contribution in some way, whether it be financial assistance to its author, through code to the project's repository or by spreading the word and letting your friends or subscribers know about it. 
 
