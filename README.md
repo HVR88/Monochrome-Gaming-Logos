@@ -27,21 +27,29 @@ Some of the designs are covered by original copyright and many of the designs ar
 
 ### Requests
 
-Do you think a logo is missing, have an idea for an alternate or have a special request? Let me know by opening a new issue.
+Is there an important logo missing from the collection, do you have an idea for an alternate or have a special request? Let me know by opening a new issue.
 
 ### Submissions
 
-Make sure the design is vector-based (SVG, EPS or AI), not a poor automated trace, and submit in one of two ways:
+Make sure the design is 100% vector-based (SVG, EPS or AI) and not a poor automated trace with excessive nodes/anchors. Submit files in one of two ways:
 - Open a new issue and post a link to the file(s)
 - Fork the repo and add your design(s) to the submissions folder, then issue a pull request.
 
-Please don't submit PNG or other bitmap files - PNGs will be generated from the vector files. If you need to submit multi-color vectors, I can take care of the monochrome interpretation when I have time.
+Please don't submit any bitmap files - PNGs will be generated from the vector files. If you need to submit multi-color vectors, I can take care of the monochrome interpretation when I have time.
 
 ### Specifications
 
 SVG files are 2 inches wide @ 300dpi and PNG files 600 pixels wide. If you need larger PNG files, download the SVG and resize or increase the DPI, then export a new PNG.
 
-All PNG and SVG files have been passed through an optimizer to reduce their filesize and maintain compatibility with Pegasus Frontend.
+The files have all been passed through an optimizer to reduce their size and maintain compatibility with Pegasus Frontend.
+
+### Background and a Special Request
+
+I originally started working on these logos to shore up missing artwork from Pegasus Frontend. While I'm not attached to that project, I'm a big fan and would very much like to see it succeed. As a regular donator on Patreon I'm not able to offer very much financially, so it's my hope that I can additionally contribute in other ways, through testing and now by providing more artwork to at the very least, give users greater options for their collections.
+
+If you value this work, I'd like to make the smallest request. Please visit the [Pegasus Frontend](https://pegasus-frontend.org/) project, try it out on your platform of choice and if you're able, make a small contribution in some way, whether it be financial assistance to its author, through code to the project's repository or by spreading the word and letting your friends or subscribers know about it. 
+
+Don't forget to also check out the [GameOS](https://github.com/PlayingKarrde/gameOS) theme, together with Pegasus, it provides the best and most polished front-end experience available.
 
 This work is licensed under a
 [Creative Commons Attribution ShareAlike 4.0 International License][cc-by-sa].
