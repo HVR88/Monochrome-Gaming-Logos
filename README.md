@@ -6,7 +6,7 @@ Logos for [Pegasus Frontend](https://pegasus-frontend.org/), including [GameOS](
 
 The collection includes arcade, console, computer, publisher, category and playlist logos - comprehensive coverage of the usual (and some unusual) emulated systems/platforms. 
 
-Artwork files: 578
+There are currently over 600 designs and variations in the collection.
 
 Sample collages:
 
@@ -21,9 +21,7 @@ Sample collages:
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_publishers.jpg)
 
 
-These logos are provided as-is, are works of artistic expression and recreations are made under a fair-use principle. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. 
-
-Some of the designs are covered by original copyright and many of the designs are trademarked by their brand owners. I take no responsibility for any issues that may arise from anyone else's use of these works. 
+Some of the designs are covered by original copyright and many of the designs are trademarked by their brand owners. These recreations are works of artistic expression  under a fair-use principle and provided as-is. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. I take no responsibility for any issues that may arise from anyone else's use or misuse of these works. 
 
 ### Requests
 
