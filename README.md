@@ -23,6 +23,10 @@ Sample collages:
 
 Some of the designs are covered by original copyright and many of the designs are trademarked by their brand owners. These recreations are works of artistic expression  under a fair-use principle and provided as-is. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. I take no responsibility for any issues that may arise from anyone else's use or misuse of these works. 
 
+### File Names
+
+Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the parent/producer company name, followed by the product/model name. Example: nintendo_gameboy_color.svg. Short-forms or nicknames are avoided, such as gbc.svg or coco.svg
+
 ### Requests
 
 Is there an important logo missing from the collection, do you have an idea for an alternate or have a special request? Let me know by opening a new issue.
