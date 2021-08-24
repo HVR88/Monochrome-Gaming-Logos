@@ -25,7 +25,7 @@ Some of the designs are covered by original copyright and many of the designs ar
 
 ### File Names
 
-Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the parent/producer company name, followed by the product/model name. Example: *nintendo_gameboy_color.svg*. Short-forms or nicknames are avoided, such as *gbc.svg* or *coco.svg*
+Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the parent/producer company name, followed by the product/model name. Example: *nintendo_gameboy_color.svg*. Acronyms,abbreviations and nicknames such as *gbc*, *c64* or *coco* aren't used. When there are multiple and alternative files for one logo, an additional descriptor such as *outline*, *flat* or *alt* is used.
 
 ### Requests
 
