@@ -23,15 +23,15 @@ Sample collages:
 
 Some of the designs are covered by original copyright and many of the designs are trademarked by their brand owners. These recreations are works of artistic expression  under a fair-use principle and provided as-is. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. I take no responsibility for any issues that may arise from anyone else's use or misuse of these works. 
 
-### File Names
+### Filenames
 
-You'll probably have to choose and rename specific files to make them work with existing themes, as it's impossible to create filenames that will work with all of them. With that in mind, the filenames here don't follow the naming scheme seen in front ends like Emulation Station.
+Filenames don't necessarily match those seen in existing collections/builds (like RetroPie), so you'll have to either rename some files or modify platform/playlist names in your theme or configuration files.
 
-Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the parent/producer company name, followed by the product/model name. Example: *nintendo_gameboy_color.svg*. Acronyms,abbreviations and nicknames such as *gbc*, *c64* or *coco* aren't used. 
+Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the manufacturer/brand name, followed by the product/model name, keeping everything grouped together. Example: *nintendo_gameboy_color.svg*. 
 
 Playlist and category-type logos all start with the *playlist_* prefix.
 
-When there are multiple and alternative files for one logo, an additional suffix such as *outline*, *flat* or *alt* is added to the base name.
+When there are multiple and alternative files for one logo, an additional suffix such as *_outline*, *_flat*, *_alt* or other variation is added to the base name.
 
 ### Requests
 
