@@ -8,18 +8,9 @@ The collection includes arcade, console, computer, publisher, category and playl
 
 There are currently over 600 designs and variations in the collection.
 
-Sample collages:
+Samples:
 
-![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_consoles.jpg)
-
-![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_playlists.jpg)
-
-![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_arcadeboards.jpg)
-
-![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_computers.jpg)
-
-![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/sample_publishers.jpg)
-
+![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/logo_samples.jpg)
 
 Some of the designs are covered by original copyright and many are trademarked by their brand owners. These recreations are works of artistic expression under a fair-use principle and provided as-is. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. I take no responsibility for any issues that may arise from anyone else's use or misuse of these works. 
 
