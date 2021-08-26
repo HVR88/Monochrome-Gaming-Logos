@@ -38,7 +38,7 @@ Playlist and category-type logos all start with the *playlist_* prefix.
 
 When there are alternative files for one logo, an additional suffix such as *_outline*, *_flat*, *_alt* or other variation is added to the base name.
 
-You'll may have to rename files or modify platform/playlist names in your theme or configuration files as filenames don't match those seen in existing collections/builds (like RetroPie).
+You may have to rename files or modify platform/playlist names in your theme or configuration files to make them match.
 
 ### Background and a Special Request
 
