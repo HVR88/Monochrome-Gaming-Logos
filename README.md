@@ -14,16 +14,6 @@ Samples:
 
 Some of the designs are covered by original copyright and many are trademarked by their brand owners. These recreations are works of artistic expression under a fair-use principle and provided as-is. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. I take no responsibility for any issues that may arise from anyone else's use or misuse of these works. 
 
-### Filenames
-
-Filenames don't necessarily match those seen in existing collections/builds (like RetroPie), so you'll have to rename some or modify platform/playlist names in your theme or configuration files.
-
-Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the manufacturer/brand name, followed by the product/model name, keeping everything grouped together. Example: *nintendo_gameboy_color.svg*. 
-
-Playlist and category-type logos all start with the *playlist_* prefix.
-
-When there are alternative files for one logo, an additional suffix such as *_outline*, *_flat*, *_alt* or other variation is added to the base name.
-
 ### Requests
 
 Let me know by opening a new issue if there's anything important missing, you have an idea for an alternate or have any special requests.
@@ -38,9 +28,19 @@ Please don't submit any bitmap files - PNGs will be generated from the vector fi
 
 ### Specifications
 
+##File formats##
 SVG files are 2 inches wide @ 300dpi and PNG files 600 pixels wide. If you need larger PNG files, download the SVG and resize or increase the DPI, then export a new PNG.
 
 The files have all been passed through an optimizer to reduce their size and maintain compatibility with Pegasus Frontend.
+
+##Filenames##
+Filenames don't necessarily match those seen in existing collections/builds (like RetroPie), so you'll have to rename some or modify platform/playlist names in your theme or configuration files.
+
+Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the manufacturer/brand name, followed by the product/model name, keeping everything grouped together. Example: *nintendo_gameboy_color.svg*. 
+
+Playlist and category-type logos all start with the *playlist_* prefix.
+
+When there are alternative files for one logo, an additional suffix such as *_outline*, *_flat*, *_alt* or other variation is added to the base name.
 
 ### Background and a Special Request
 
