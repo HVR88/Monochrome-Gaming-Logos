@@ -28,21 +28,17 @@ Please don't submit any bitmap files - PNGs will be generated from the vector fi
 
 ### Specifications
 
-**File Sizes**
-
-SVG files are 2 inches wide @ 300dpi and PNG files 600 pixels wide. If you need larger PNG files, download the SVG and resize or increase the DPI, then export a new PNG.
+**File Sizes:** SVG files are 2 inches wide @ 300dpi and PNG files 600 pixels wide. If you need larger PNG files, download the SVG and resize or increase the DPI, then export a new PNG.
 
 The files have all been passed through an optimizer to reduce their size and maintain compatibility with Pegasus Frontend.
 
-**Filenames**
-
-Filenames don't necessarily match those seen in existing collections/builds (like RetroPie), so you'll have to rename some or modify platform/playlist names in your theme or configuration files.
-
-Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the manufacturer/brand name, followed by the product/model name, keeping everything grouped together. Example: *nintendo_gameboy_color.svg*. 
+**Filenames:** Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the manufacturer/brand name, followed by the product/model name, keeping everything grouped together. Example: *nintendo_gameboy_color.svg*. 
 
 Playlist and category-type logos all start with the *playlist_* prefix.
 
 When there are alternative files for one logo, an additional suffix such as *_outline*, *_flat*, *_alt* or other variation is added to the base name.
+
+You'll may have to rename files or modify platform/playlist names in your theme or configuration files as filenames don't match those seen in existing collections/builds (like RetroPie).
 
 ### Background and a Special Request
 
