@@ -10,7 +10,7 @@ Samples:
 
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/logo_samples.jpg)
 
-Some of the designs are covered by original copyright and many are registered or unregistered trade or service marks of their brand owners. The specific recreations hosted here are works of artistic expression under a fair-use principle, provided as-is for identification purposes, without any claimed affiliation or endorsement from any rights holders. Use them freely in your collections or projects but be aware that there may be restrictions with respect to any commercial use. I ask that you include a link back to this repository if distributing them with your work, in an effort to maintain a growing collection and realize any future edits. I take no responsibility for any issues that may arise from anyone else's use or misuse of these images. 
+Some of the designs are covered by original copyright and many are registered or unregistered trade or service marks of their brand owners. The specific recreations hosted here are works of artistic expression under a fair-use principle, provided as-is for identification purposes, without any claimed affiliation or endorsement from any rights holders. Use them freely in your collections or projects but be aware that there may be restrictions with respect to any commercial use. I ask that you include a link back to this repository if distributing them with your work, in an effort to maintain a growing collection and realize future edits. I take no responsibility for any issues that may arise from anyone else's use or misuse of these images. 
 
 ### Requests
 
