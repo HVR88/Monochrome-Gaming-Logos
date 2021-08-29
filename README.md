@@ -6,7 +6,7 @@ The collection includes arcade, console, computer, publisher, category and playl
 
 There are currently over 600 designs and variations in the collection.
 
-Samples:
+### Samples
 
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/logo_samples.jpg)
 
