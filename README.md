@@ -1,7 +1,5 @@
 # Monochrome (Retro) Gaming Logos
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
 Logos for [Pegasus Frontend](https://pegasus-frontend.org/), including [GameOS](https://github.com/PlayingKarrde/gameOS) theme - you can also use them for other  front-ends such as Emulation Station, LaunchBox/BigBox, Attract Mode, or any other project where you want monochrome logos.
 
 The collection includes arcade, console, computer, publisher, category and playlist logos - comprehensive coverage of the usual (and some unusual) emulated systems/platforms. 
@@ -12,7 +10,7 @@ Samples:
 
 ![sample of logos](https://github.com/HVR88/Monochrome-Gaming-Logos/blob/main/logo_samples.jpg)
 
-Some of the designs are covered by original copyright and many are trademarked by their brand owners. These recreations are works of artistic expression under a fair-use principle and provided as-is. Use them freely in your collections or projects, I only ask that you include a link back to this repository if distributing them with your work. I take no responsibility for any issues that may arise from anyone else's use or misuse of these works. 
+Some of the designs are covered by original copyright and many are registered or unregistered trade or service marks of their brand owners. The specific recreations hosted here are works of artistic expression under a fair-use principle, provided as-is for identification purposes, without any claimed affiliation or endorsement from any rights holders. Use them freely in your collections or projects but be aware that there may be restrictions with respect to any commercial use. I ask that you include a link back to this repository if distributing them with your work, in an effort to maintain a growing collection and realize any future edits. I take no responsibility for any issues that may arise from anyone else's use or misuse of these images. 
 
 ### Requests
 
@@ -47,16 +45,3 @@ I originally started working on these logos to shore up missing artwork from [Pe
 If you value this work, I'd like to make the smallest request. Please visit the [Pegasus Frontend](https://pegasus-frontend.org/) project, try it out on your platform of choice and if you're able, make a small contribution in some way. Consider financial assistance to its author, contributing code to the project or spreading the word and letting your friends or subscribers know about it. 
 
 Don't forget to also check out the [GameOS](https://github.com/PlayingKarrde/gameOS) theme, it provides one of the best and most polished front-end experiences for large game libraries.
-
----
-
-This work is licensed under a
-[Creative Commons Attribution ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
-
