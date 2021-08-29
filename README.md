@@ -12,7 +12,7 @@ There are currently over 600 designs and variations in the collection.
 
 ### Usage Disclaimer
 
-Some of the designs are covered by original copyright and many are registered or unregistered trade or service marks of their brand owners. The specific recreations hosted here are works of artistic expression under a fair-use principle, provided as-is for identification purposes, without any claimed affiliation or endorsement from any rights holders. Use them freely in your collections or projects and please include a note and link back to this repository to help maintain the collection and realize future edits.
+While this collection includes many of my original designs, some images are covered by third-party copyrights and many are registered or unregistered trade or service marks of their brand owners. The specific recreations hosted here are works of artistic expression under a fair-use principle, provided as-is for identification purposes, without any claimed affiliation or endorsement from any rights holders. Use them freely in your collections or projects and please include a note and link back to this repository to help maintain the collection and realize future edits.
 
 Be aware that there may be restrictions with respect to inclusion of some/all logos/marks in commercial projects. I take no responsibility for any issues that may arise from anyone else's use or misuse of these images. 
 
