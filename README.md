@@ -4,7 +4,7 @@ The logos were created for [Pegasus Frontend](https://pegasus-frontend.org/) and
 
 The collection includes arcade, console, computer, publisher, category and playlist logos - comprehensive coverage of the usual, and some unusual, systems/platforms available for emulation.
 
-There are over 620 designs and variations in the collection.
+*There are over 620 designs and variations in the collection.*
 
 ### Samples
 
@@ -30,9 +30,9 @@ Please don't submit any bitmap files - PNGs will be generated from the vector fi
 
 ### Specifications
 
-**File Sizes:** SVG files are 2 inches wide @ 300dpi and PNG files 600 pixels wide. If you need larger PNG files, download the SVG and resize or increase the DPI, then export a new PNG.
+**File Sizes:** SVG files are 2 inches wide @ 300dpi and PNG files 600 pixels wide. If you need larger PNG files, download the SVG and resize or increase the DPI, then export a new pixel-perfect PNG.
 
-The files have all been passed through an optimizer to reduce their size and maintain compatibility with Pegasus Frontend.
+The files have all been passed through an optimizer to reduce their file sizes, maintain quality, and increase compatibility.
 
 **Filenames:** Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the manufacturer/brand name, followed by the product/model name. Example: *nintendo_gameboy_color.svg*. 
 
