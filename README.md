@@ -1,8 +1,8 @@
 # Monochrome (Retro) Gaming Logos
 
-The logos were created for [Pegasus Frontend](https://pegasus-frontend.org/) and the [GameOS](https://github.com/PlayingKarrde/gameOS) theme - you can also use them for other  front-ends such as Emulation Station, LaunchBox/BigBox, Attract Mode, or any other project where you want monochrome logos.
-
 The collection includes arcade, console, computer, publisher, category and playlist logos - comprehensive coverage of the usual, and some unusual, systems/platforms available for emulation.
+
+The logos were originally created for [Pegasus Frontend](https://pegasus-frontend.org/) and the [GameOS](https://github.com/PlayingKarrde/gameOS) theme - you can also use them for other  front-ends such as Emulation Station, LaunchBox/BigBox, Attract Mode, or any other project or design where you want monochrome logos.
 
 *There are over 620 designs and variations in the collection.*
 
@@ -22,17 +22,17 @@ Let me know by opening a new issue if there's anything important missing, you ha
 
 ### Submissions
 
-Make sure designs are 100% vector-based (SVG, EPS or AI) without any rasterized or bitmap elements - also no automated traces with excessive nodes/anchors and rough curves. Submit files in one of two ways:
+Make sure designs are vector-based (SVG, EPS or AI) without any rasterized or bitmap elements, and also not automated traces with excessive nodes/anchors or rough curves. Submit files in one of two ways:
 - Open a new issue and post a link to the file(s)
 - Fork the repo and add your design(s) to the submissions folder, then issue a pull request.
 
-Please don't submit any bitmap files - PNGs will be generated from the vector files. If you need to submit multi-color vectors, I can create a monochrome versions.
+Please don't submit bitmap files - PNGs will be generated from the vector files. If you need to submit multi-color vectors, I can create monochrome versions.
 
 ### Specifications
 
 **File Sizes:** SVG files are 2 inches wide @ 300dpi and PNG files 600 pixels wide. If you need larger PNG files, download the SVG and resize or increase the DPI, then export a new pixel-perfect PNG.
 
-The files have all been passed through an optimizer to reduce their file sizes, maintain quality, and increase compatibility.
+*The files have been passed through an optimizer to reduce file sizes, maintain quality, and increase compatibility.*
 
 **Filenames:** Files are named in lowercase with words separated by an underscore. In the case of consoles and computers, names start with the manufacturer/brand name, followed by the product/model name. Example: *nintendo_gameboy_color.svg*. 
 
