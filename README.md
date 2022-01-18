@@ -2,9 +2,16 @@
 
 The collection includes arcade, console, computer, publisher, category and playlist logos - comprehensive coverage of the usual, and some unusual, systems/platforms available for emulation.
 
-The logos were originally created for [Pegasus Frontend](https://pegasus-frontend.org/) and the [GameOS](https://github.com/PlayingKarrde/gameOS) theme - you can also use them for other  front-ends such as Emulation Station, LaunchBox/BigBox, Attract Mode, or any other project or design where you want monochrome logos.
+I originally started working on these to shore up missing artwork from [Pegasus Frontend](https://pegasus-frontend.org/) and [GameOS](https://github.com/PlayingKarrde/gameOS) theme, as I'm a big fan and would very much like to see both succeed. While I'm a regular donnor on Patreon, I'm not able to offer very much financially, so it's my hope that I can additionally contribute in other ways, through testing and now by providing more artwork, giving users more options for their collections.
+
+If you value this work, I'd like to make the smallest request. Please visit the [Pegasus Frontend](https://pegasus-frontend.org/) project, try it out on your platform of choice and if you're able, make a small contribution in some way. Consider financial assistance to its author, contributing code to the project or spreading the word and letting your friends or subscribers know about it. 
+
+Don't forget to also check out the [GameOS](https://github.com/PlayingKarrde/gameOS) theme, it provides one of the best and most polished front-end experiences for game libraries of any size.
 
 *There are over 620 designs and variations in the collection.*
+
+You can also these logos for other front-ends such as Emulation Station, LaunchBox/BigBox, Attract Mode, or any other project or design where you want monochrome logos.
+
 
 ### Samples
 
@@ -42,10 +49,3 @@ When there are alternative files for any logo, an additional suffix such as *_ou
 
 You may have to rename files or modify platform/playlist names in your theme or configurations to make them match.
 
-### Background and a Special Request
-
-I originally started working on these logos to shore up missing artwork from [Pegasus Frontend](https://pegasus-frontend.org/), as I'm a big fan and would very much like to see it succeed. While I'm a regular donnor on Patreon, I'm not able to offer very much financially, so it's my hope that I can additionally contribute in other ways, through testing and now by providing more artwork, giving users more options for their collections.
-
-If you value this work, I'd like to make the smallest request. Please visit the [Pegasus Frontend](https://pegasus-frontend.org/) project, try it out on your platform of choice and if you're able, make a small contribution in some way. Consider financial assistance to its author, contributing code to the project or spreading the word and letting your friends or subscribers know about it. 
-
-Don't forget to also check out the [GameOS](https://github.com/PlayingKarrde/gameOS) theme, it provides one of the best and most polished front-end experiences for game libraries of any size.
